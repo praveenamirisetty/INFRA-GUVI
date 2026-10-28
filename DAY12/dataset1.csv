@@ -1,0 +1,13 @@
+Date,Product,Orders,Revenue,Delivery_Time,Rating,Status
+2026-10-01,Burger,45,9000,25,4.5,Delivered
+2026-10-01,Pizza,30,12000,35,4.7,Delivered
+2026-10-01,Biryani,50,15000,40,4.2,Delivered
+2026-10-02,Burger,50,10000,28,4.4,Delivered
+2026-10-02,Pizza,35,14000,38,4.8,Delivered
+2026-10-02,Biryani,55,16500,45,4.1,Late
+2026-10-03,Sandwich,28,5600,21,4.1,Delivered
+2026-10-03,Fried Rice,38,7600,31,4.4,Delivered
+2026-10-04,Pizza,40,16000,42,4.6,Late
+2026-10-04,Biryani,65,19500,48,4.3,Late
+2026-10-05,Sandwich,35,7000,24,4.3,Delivered
+2026-10-05,Fried Rice,42,8400,33,4.4,Delivered

@@ -1,0 +1,16 @@
+StockDate,InventoryID,Product,Category,StockQuantity,UnitPrice,WarehouseCity,StockStatus
+2026-10-01,INV2001,Laptop Stand,Accessories,25,899,Chennai,In Stock
+2026-10-01,INV2002,Wireless Mouse,Accessories,40,599,Bengaluru,In Stock
+2026/10/02,INV2003,USB-C Hub,Accessories,18,"1,499",Hyderabad,In Stock
+03-10-2026,INV2004,Office Chair,Furniture,8,6499,Chennai,Low Stock
+2026-10-04,INV2005,Desk Lamp ,Lighting,15,1299,Mumbai,In Stock
+2026-10-05,INV2006,Monitor,Electronics,twelve,12999,Hyderabad,In Stock
+2026-10-05,INV2007,Keyboard,Accessories,30,"1,199",Bengaluru,In Stock
+2026-10-06,INV2008,Monitor,Electronics,10,12999,Chennai,Low Stock
+2026-10-06,INV2009,Monitor,Electronics,10,12999,Chennai,Low Stock
+2026-10-07,INV2010,Webcam,Electronics,14,unknown,Mumbai,In Stock
+2026-10-08,INV2011,Laptop Stand,Accessories,22,899,Hyderabad,In Stock
+2026-10-08,INV2012,Filing Cabinet,Furniture,0,8500,Chennai,Out of Stock
+2026-10-09,INV2013,USB-C Hub,Accessories,-3,1499,Bengaluru,Low Stock
+2026-10-09,INV2014,Projector,Electronics,5,45999,Mumbai,In Stock
+2026-10-10,INV2015,Desk Lamp,Lighting,11,1299,Chennai,In Stock

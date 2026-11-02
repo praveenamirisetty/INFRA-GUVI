@@ -1,0 +1,66 @@
+ORDER_ID,ORDER_DATE,ITEM,QUANTITY,UNIT_PRICE,BRANCH
+7001,2026-10-01,Cappuccino,1,140,Chennai
+7002,2026-10-02,Latte,2,160,Bengaluru
+7003,2026-10-03,Americano,1,120,Hyderabad
+7004,2026-10-04,Cold Coffee,3,180,Pune
+7005,2026-10-05,Veg Sandwich,,150,Mumbai
+7006,2026-10-06,Paneer Wrap,1,190,Chennai
+7007,2026-10-07,Blueberry Muffin,4,110,Bengaluru
+7008,2026-10-08,Chocolate Brownie,2,130,Hyderabad
+7009,2026-10-09,Masala Tea,1,,Pune
+7010,2026-10-10,Iced Tea,3,100,Mumbai
+7011,2026-10-11,Cappuccino,1,140,Chennai
+7012,2026-10-12,Latte,2,160,Bengaluru
+7013,2026-10-13,,1,120,Hyderabad
+7014,2026-10-14,Cold Coffee,3,180,Pune
+7015,2026-10-15,Veg Sandwich,2,150,Mumbai
+7016,2026-10-16,Paneer Wrap,1,190,Chennai
+7017,2026-10-17,Blueberry Muffin,4,110,
+7018,2026-10-18,Chocolate Brownie,2,130,Hyderabad
+7019,2026-10-19,Masala Tea,1,60,Pune
+7020,2026-10-20,Iced Tea,3,100,Mumbai
+7021,2026-10-21,Cappuccino,three,140,Chennai
+7022,2026-10-22,Latte,2,160,Bengaluru
+7023,2026-10-23,Americano,1,120,Hyderabad
+7024,2026-10-24,Cold Coffee,3,180,Pune
+7025,2026-10-25,Veg Sandwich,2,unknown,Mumbai
+7026,2026-10-26,Paneer Wrap,1,190,Chennai
+7027,2026-10-27,Blueberry Muffin,4,110,Bengaluru
+7028,2026-10-28,Chocolate Brownie,2,130,Hyderabad
+7029,2026-10-01,Masala Tea,-2,60,Pune
+7030,2026-10-02,Iced Tea,3,100,Mumbai
+7031,2026-10-03,Cappuccino,1,140,Chennai
+7032,2026-10-04,Latte,2,160,Bengaluru
+7033,2026-10-05,Americano,1,-50,Hyderabad
+7034,2026-10-06,Cold Coffee,3,180,Pune
+7035,2026-10-07,Veg Sandwich,2,150,Mumbai
+7036,2026-10-08,Paneer Wrap,1,190,Chennai
+7037,2026-10-09,Blueberry Muffin,4,0,Bengaluru
+7038,2026-10-10,Chocolate Brownie,2,130,Hyderabad
+7039,2026-10-11,Masala Tea,1,60,Pune
+7040,2026-10-12,Iced Tea,3,100,Mumbai
+7041,2026-10-13,Cappuccino,500,140,Chennai
+7042,2026-10-14,Latte,2,160,Bengaluru
+7043,2026-10-15,Americano,1,120,Hyderabad
+7044,2026-10-16,Cold Coffee,3,180,Pune
+7004,2026-10-17,Veg Sandwich,2,150,Mumbai
+7046,2026-10-18,Paneer Wrap,1,190,Chennai
+7047,2026-10-19,Blueberry Muffin,4,110,Bengaluru
+7048,2026-10-20,Chocolate Brownie,2,130,Hyderabad
+7011,2026-10-21,Masala Tea,1,60,Pune
+7050,2026-10-22,Iced Tea,3,100,Mumbai
+7051,2026-10-23,Cappuccino,1,140,Chennai
+7052,2026-10-24,Latte,2,160,Bengaluru
+7053,not-a-date,Americano,1,120,Hyderabad
+7054,2026-10-26,Cold Coffee,3,180,Pune
+7055,2026-10-27,Veg Sandwich,2,150,Mumbai
+7056,2026-10-28,Paneer Wrap,1,190,Chennai
+7057,2026-10-01,   ,4,110,Bengaluru
+7058,2026-10-02,Chocolate Brownie,2,130,Hyderabad
+7059,2026-10-03,Masala Tea,1,60,Pune
+7060,2026-10-04,Iced Tea,3,100,Mumbai
+7061,2026-10-05,Cappuccino,0,140,Chennai
+7062,2026-10-06,Latte,2,160,Bengaluru
+7063,2026-10-07,Americano,1,120,Hyderabad
+7064,2026-10-08,Cold Coffee,3,180,Pune
+7065,2026-10-09,Veg Sandwich,2,150,Mumbai

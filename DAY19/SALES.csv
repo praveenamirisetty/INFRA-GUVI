@@ -1,0 +1,387 @@
+ORDER_ID,ORDER_DATE,CUSTOMER_ID,CUSTOMER_NAME,CITY,PRODUCT,CATEGORY,QUANTITY,UNIT_COST,UNIT_PRICE
+ORD0138,2025-01-03,C018,Rahul Mishra,Kolkata,Desk Lamp,Home & Office,2,420,759.05
+ORD0125,2025-01-11,C030,Ishaan Mehta,Ahmedabad,Lunch Bag,Accessories,1,220,450.45
+ORD0025,2025-01-14,C073,Manish Mishra,Delhi,USB-C Hub,Electronics,2,850,1573.95
+ORD0025,2025-01-14,C073,Manish Mishra,Delhi,Wireless Mouse,Electronics,1,260,523.95
+ORD0057,2025-01-15,C075,Aadhya Naidu,Chennai,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0057,2025-01-15,C075,Aadhya Naidu,Chennai,Pen Pack,Stationery,1,55,109.0
+ORD0110,2025-01-20,C045,Rohan Mishra,Kolkata,Notebook Set,Stationery,2,90,179.0
+ORD0106,2025-01-22,C012,Anjali Shetty,Bengaluru,Water Bottle,Accessories,2,180,331.55
+ORD0203,2025-01-27,C011,Aarav Chakraborty,Kolkata,Backpack,Accessories,1,700,1363.95
+ORD0224,2025-01-27,C017,Anjali Nair,Hyderabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0056,2025-01-30,C005,Aarav Menon,Pune,Lunch Bag,Accessories,3,220,407.55
+ORD0056,2025-01-30,C005,Aarav Menon,Pune,Notebook Set,Stationery,1,90,187.95
+ORD0169,2025-01-30,C010,Anjali Bose,Chennai,Backpack,Accessories,1,700,1234.05
+ORD0169,2025-01-30,C010,Anjali Bose,Chennai,Webcam,Electronics,1,900,1599.0
+ORD0070,2025-02-01,C055,Deepak Naidu,Ahmedabad,Air Fryer,Appliances,3,2800,3999.0
+ORD0070,2025-02-01,C055,Deepak Naidu,Ahmedabad,Keyboard,Electronics,2,650,1199.0
+ORD0078,2025-02-07,C016,Sanjay Reddy,Pune,Coffee Maker,Appliances,1,1900,3043.95
+ORD0078,2025-02-07,C016,Sanjay Reddy,Pune,Pen Pack,Stationery,2,55,103.55
+ORD0213,2025-02-07,C030,Ishaan Mehta,Ahmedabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0213,2025-02-07,C030,Ishaan Mehta,Ahmedabad,Notebook Set,Stationery,3,90,170.05
+ORD0146,2025-02-09,C011,Aarav Chakraborty,Kolkata,Air Fryer,Appliances,1,2800,3999.0
+ORD0146,2025-02-09,C011,Aarav Chakraborty,Kolkata,Lunch Bag,Accessories,1,220,450.45
+ORD0065,2025-02-10,C052,Lakshmi Iyer,Pune,Water Bottle,Accessories,1,180,349.0
+ORD0196,2025-02-10,C057,Priya Das,Delhi,Keyboard,Electronics,1,650,1199.0
+ORD0072,2025-02-15,C051,Divya Naidu,Ahmedabad,Keyboard,Electronics,2,650,1199.0
+ORD0173,2025-02-16,C023,Anjali Verma,Chennai,Air Fryer,Appliances,3,2800,3999.0
+ORD0173,2025-02-16,C023,Anjali Verma,Chennai,Wireless Mouse,Electronics,2,260,499.0
+ORD0237,2025-02-16,C037,Vivaan Naidu,Hyderabad,Lunch Bag,Accessories,1,220,429.0
+ORD0237,2025-02-16,C037,Vivaan Naidu,Hyderabad,Office Chair,Home & Office,1,2600,3799.05
+ORD0097,2025-02-22,C008,Aarav Desai,Delhi,Notebook Set,Stationery,1,90,187.95
+ORD0097,2025-02-22,C008,Aarav Desai,Delhi,Pen Pack,Stationery,1,55,109.0
+ORD0204,2025-02-27,C072,Varun Kumar,Ahmedabad,Air Fryer,Appliances,1,2800,4198.95
+ORD0204,2025-02-27,C072,Varun Kumar,Ahmedabad,Mixer Grinder,Appliances,1,1700,2469.05
+ORD0178,2025-03-04,C054,Arjun Menon,Pune,Headphones,Electronics,1,1100,1804.05
+ORD0178,2025-03-04,C054,Arjun Menon,Pune,USB-C Hub,Electronics,1,850,1499.0
+ORD0006,2025-03-06,C078,Pooja Joshi,Bengaluru,Air Fryer,Appliances,2,2800,4198.95
+ORD0205,2025-03-06,C066,Priya Patel,Hyderabad,Coffee Maker,Appliances,1,1900,3043.95
+ORD0019,2025-03-07,C067,Suresh Iyer,Bengaluru,Keyboard,Electronics,1,650,1199.0
+ORD0019,2025-03-07,C067,Suresh Iyer,Bengaluru,USB-C Hub,Electronics,1,850,1499.0
+ORD0085,2025-03-07,C017,Anjali Nair,Hyderabad,Coffee Maker,Appliances,2,1900,2899.0
+ORD0085,2025-03-07,C017,Anjali Nair,Hyderabad,Lunch Bag,Accessories,1,220,429.0
+ORD0085,2025-03-07,C017,Anjali Nair,Hyderabad,Webcam,Electronics,2,900,1519.05
+ORD0239,2025-03-10,C005,Aarav Menon,Pune,Keyboard,Electronics,1,650,1199.0
+ORD0104,2025-03-20,C080,Amit Joshi,Pune,Coffee Maker,Appliances,2,1900,3043.95
+ORD0104,2025-03-20,C080,Amit Joshi,Pune,Notebook Set,Stationery,2,90,170.05
+ORD0129,2025-03-20,C044,Sanjay Verma,Bengaluru,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0119,2025-03-21,C021,Harish Bhat,Delhi,Lunch Bag,Accessories,1,220,429.0
+ORD0167,2025-03-21,C016,Sanjay Reddy,Pune,Desk Lamp,Home & Office,1,420,759.05
+ORD0167,2025-03-21,C016,Sanjay Reddy,Pune,Headphones,Electronics,3,1100,1899.0
+ORD0167,2025-03-21,C016,Sanjay Reddy,Pune,Webcam,Electronics,1,900,1519.05
+ORD0027,2025-03-25,C060,Sanjay Shetty,Delhi,Desk Lamp,Home & Office,1,420,759.05
+ORD0027,2025-03-25,C060,Sanjay Shetty,Delhi,Wireless Mouse,Electronics,1,260,523.95
+ORD0091,2025-03-27,C031,Vikram Agarwal,Ahmedabad,Office Chair,Home & Office,2,2600,4198.95
+ORD0091,2025-03-27,C031,Vikram Agarwal,Ahmedabad,Pen Pack,Stationery,1,55,114.45
+ORD0091,2025-03-27,C031,Vikram Agarwal,Ahmedabad,USB-C Hub,Electronics,1,850,1424.05
+ORD0073,2025-03-28,C068,Priya Bhat,Kolkata,Air Fryer,Appliances,1,2800,3999.0
+ORD0073,2025-03-28,C068,Priya Bhat,Kolkata,Desk Lamp,Home & Office,2,420,799.0
+ORD0240,2025-03-29,C057,Priya Das,Delhi,USB-C Hub,Electronics,1,850,1499.0
+ORD0240,2025-03-29,C057,Priya Das,Delhi,Webcam,Electronics,1,900,1599.0
+ORD0016,2025-04-04,C053,Arjun Choudhary,Chennai,Lunch Bag,Accessories,1,220,407.55
+ORD0068,2025-04-09,C017,Anjali Nair,Hyderabad,Headphones,Electronics,1,1100,1899.0
+ORD0068,2025-04-09,C017,Anjali Nair,Hyderabad,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0068,2025-04-09,C017,Anjali Nair,Hyderabad,Webcam,Electronics,1,900,1678.95
+ORD0216,2025-04-09,C004,Ishaan Desai,Bengaluru,Headphones,Electronics,1,1100,1899.0
+ORD0039,2025-04-16,C043,Aditya Patel,Mumbai,Headphones,Electronics,1,1100,1899.0
+ORD0039,2025-04-16,C043,Aditya Patel,Mumbai,Keyboard,Electronics,1,650,1258.95
+ORD0206,2025-04-16,C003,Shreya Chakraborty,Kolkata,Air Fryer,Appliances,1,2800,3999.0
+ORD0206,2025-04-16,C003,Shreya Chakraborty,Kolkata,Water Bottle,Accessories,1,180,366.45
+ORD0041,2025-04-19,C002,Neha Pillai,Hyderabad,Office Chair,Home & Office,1,2600,4198.95
+ORD0041,2025-04-19,C002,Neha Pillai,Hyderabad,Water Bottle,Accessories,1,180,349.0
+ORD0127,2025-04-21,C047,Naveen Joshi,Hyderabad,Coffee Maker,Appliances,1,1900,3043.95
+ORD0127,2025-04-21,C047,Naveen Joshi,Hyderabad,Office Chair,Home & Office,3,2600,3999.0
+ORD0047,2025-04-22,C024,Lakshmi Choudhary,Delhi,Webcam,Electronics,1,900,1599.0
+ORD0003,2025-04-23,C047,Naveen Joshi,Hyderabad,Lunch Bag,Accessories,1,220,450.45
+ORD0177,2025-04-23,C048,Naveen Mehta,Ahmedabad,USB-C Hub,Electronics,3,850,1424.05
+ORD0214,2025-04-23,C010,Anjali Bose,Chennai,Mixer Grinder,Appliances,2,1700,2469.05
+ORD0214,2025-04-23,C010,Anjali Bose,Chennai,Wireless Mouse,Electronics,2,260,474.05
+ORD0063,2025-04-26,C007,Rahul Menon,Kolkata,Coffee Maker,Appliances,1,1900,3043.95
+ORD0063,2025-04-26,C007,Rahul Menon,Kolkata,Wireless Mouse,Electronics,2,260,523.95
+ORD0080,2025-04-26,C015,Harish Patel,Bengaluru,Backpack,Accessories,1,700,1299.0
+ORD0107,2025-04-27,C073,Manish Mishra,Delhi,Backpack,Accessories,1,700,1299.0
+ORD0099,2025-04-28,C026,Aarav Das,Mumbai,Coffee Maker,Appliances,1,1900,2754.05
+ORD0222,2025-04-29,C036,Varun Patel,Kolkata,Backpack,Accessories,2,700,1299.0
+ORD0038,2025-05-02,C016,Sanjay Reddy,Pune,Backpack,Accessories,3,700,1234.05
+ORD0038,2025-05-02,C016,Sanjay Reddy,Pune,Keyboard,Electronics,2,650,1258.95
+ORD0188,2025-05-02,C004,Ishaan Desai,Bengaluru,Water Bottle,Accessories,1,180,366.45
+ORD0109,2025-05-03,C059,Kabir Desai,Hyderabad,Backpack,Accessories,2,700,1299.0
+ORD0109,2025-05-03,C059,Kabir Desai,Hyderabad,Desk Lamp,Home & Office,1,420,838.95
+ORD0109,2025-05-03,C059,Kabir Desai,Hyderabad,Office Chair,Home & Office,1,2600,3799.05
+ORD0058,2025-05-05,C068,Priya Bhat,Kolkata,Webcam,Electronics,1,900,1678.95
+ORD0058,2025-05-05,C068,Priya Bhat,Kolkata,Wireless Mouse,Electronics,1,260,474.05
+ORD0149,2025-05-07,C058,Manish Bose,Delhi,Headphones,Electronics,2,1100,1899.0
+ORD0149,2025-05-07,C058,Manish Bose,Delhi,Lunch Bag,Accessories,3,220,450.45
+ORD0149,2025-05-07,C058,Manish Bose,Delhi,Water Bottle,Accessories,1,180,331.55
+ORD0059,2025-05-09,C059,Kabir Desai,Hyderabad,Water Bottle,Accessories,2,180,349.0
+ORD0197,2025-05-12,C002,Neha Pillai,Hyderabad,Lunch Bag,Accessories,2,220,429.0
+ORD0201,2025-05-13,C061,Saanvi Choudhary,Ahmedabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0201,2025-05-13,C061,Saanvi Choudhary,Ahmedabad,Keyboard,Electronics,1,650,1258.95
+ORD0144,2025-05-15,C080,Amit Joshi,Pune,Headphones,Electronics,2,1100,1804.05
+ORD0144,2025-05-15,C080,Amit Joshi,Pune,Notebook Set,Stationery,1,90,179.0
+ORD0225,2025-05-22,C069,Amit Sharma,Chennai,USB-C Hub,Electronics,1,850,1573.95
+ORD0200,2025-05-23,C047,Naveen Joshi,Hyderabad,Water Bottle,Accessories,1,180,331.55
+ORD0036,2025-05-24,C029,Pooja Patel,Mumbai,Coffee Maker,Appliances,1,1900,2899.0
+ORD0108,2025-05-28,C023,Anjali Verma,Chennai,Mixer Grinder,Appliances,1,1700,2599.0
+ORD0108,2025-05-28,C023,Anjali Verma,Chennai,Pen Pack,Stationery,3,55,103.55
+ORD0050,2025-05-29,C009,Meera Desai,Kolkata,Desk Lamp,Home & Office,1,420,759.05
+ORD0194,2025-06-01,C056,Karthik Gupta,Hyderabad,Notebook Set,Stationery,3,90,179.0
+ORD0194,2025-06-01,C056,Karthik Gupta,Hyderabad,Webcam,Electronics,2,900,1599.0
+ORD0083,2025-06-03,C060,Sanjay Shetty,Delhi,Air Fryer,Appliances,1,2800,3999.0
+ORD0013,2025-06-04,C035,Kavya Desai,Hyderabad,USB-C Hub,Electronics,3,850,1424.05
+ORD0013,2025-06-04,C035,Kavya Desai,Hyderabad,Water Bottle,Accessories,1,180,331.55
+ORD0048,2025-06-05,C015,Harish Patel,Bengaluru,USB-C Hub,Electronics,1,850,1499.0
+ORD0048,2025-06-05,C015,Harish Patel,Bengaluru,Webcam,Electronics,1,900,1519.05
+ORD0089,2025-06-05,C015,Harish Patel,Bengaluru,Pen Pack,Stationery,1,55,114.45
+ORD0120,2025-06-07,C036,Varun Patel,Kolkata,Lunch Bag,Accessories,1,220,407.55
+ORD0142,2025-06-07,C036,Varun Patel,Kolkata,Headphones,Electronics,3,1100,1993.95
+ORD0030,2025-06-09,C005,Aarav Menon,Pune,Desk Lamp,Home & Office,2,420,799.0
+ORD0174,2025-06-14,C001,Vikram Choudhary,Mumbai,Keyboard,Electronics,1,650,1139.05
+ORD0174,2025-06-14,C001,Vikram Choudhary,Mumbai,Pen Pack,Stationery,1,55,109.0
+ORD0015,2025-06-25,C019,Kabir Mehta,Kolkata,Desk Lamp,Home & Office,2,420,759.05
+ORD0054,2025-06-28,C066,Priya Patel,Hyderabad,Office Chair,Home & Office,1,2600,3999.0
+ORD0074,2025-06-30,C071,Amit Naidu,Hyderabad,Webcam,Electronics,1,900,1599.0
+ORD0031,2025-07-03,C007,Rahul Menon,Kolkata,Desk Lamp,Home & Office,1,420,759.05
+ORD0031,2025-07-03,C007,Rahul Menon,Kolkata,Pen Pack,Stationery,1,55,109.0
+ORD0053,2025-07-08,C028,Suresh Verma,Ahmedabad,Lunch Bag,Accessories,1,220,450.45
+ORD0066,2025-07-09,C066,Priya Patel,Hyderabad,Keyboard,Electronics,1,650,1199.0
+ORD0159,2025-07-09,C078,Pooja Joshi,Bengaluru,Keyboard,Electronics,3,650,1199.0
+ORD0159,2025-07-09,C078,Pooja Joshi,Bengaluru,USB-C Hub,Electronics,1,850,1499.0
+ORD0190,2025-07-13,C074,Divya Patel,Chennai,Headphones,Electronics,3,1100,1899.0
+ORD0046,2025-07-18,C039,Saanvi Verma,Ahmedabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0193,2025-07-20,C068,Priya Bhat,Kolkata,Desk Lamp,Home & Office,3,420,799.0
+ORD0193,2025-07-20,C068,Priya Bhat,Kolkata,Headphones,Electronics,1,1100,1899.0
+ORD0133,2025-07-21,C053,Arjun Choudhary,Chennai,Backpack,Accessories,1,700,1299.0
+ORD0032,2025-07-22,C074,Divya Patel,Chennai,Desk Lamp,Home & Office,3,420,759.05
+ORD0231,2025-07-24,C066,Priya Patel,Hyderabad,Office Chair,Home & Office,1,2600,4198.95
+ORD0228,2025-07-27,C039,Saanvi Verma,Ahmedabad,Backpack,Accessories,1,700,1299.0
+ORD0179,2025-07-31,C042,Kabir Naidu,Pune,Coffee Maker,Appliances,2,1900,2899.0
+ORD0217,2025-08-01,C075,Aadhya Naidu,Chennai,Lunch Bag,Accessories,1,220,429.0
+ORD0212,2025-08-07,C049,Diya Iyer,Hyderabad,Desk Lamp,Home & Office,1,420,799.0
+ORD0212,2025-08-07,C049,Diya Iyer,Hyderabad,Headphones,Electronics,1,1100,1899.0
+ORD0236,2025-08-16,C079,Sanjay Pillai,Hyderabad,Keyboard,Electronics,2,650,1139.05
+ORD0236,2025-08-16,C079,Sanjay Pillai,Hyderabad,Pen Pack,Stationery,1,55,103.55
+ORD0189,2025-08-21,C049,Diya Iyer,Hyderabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0189,2025-08-21,C049,Diya Iyer,Hyderabad,Headphones,Electronics,1,1100,1804.05
+ORD0082,2025-08-23,C051,Divya Naidu,Ahmedabad,Lunch Bag,Accessories,1,220,407.55
+ORD0022,2025-08-24,C027,Naveen Rao,Mumbai,Wireless Mouse,Electronics,1,260,523.95
+ORD0093,2025-08-25,C052,Lakshmi Iyer,Pune,Air Fryer,Appliances,2,2800,3799.05
+ORD0093,2025-08-25,C052,Lakshmi Iyer,Pune,Headphones,Electronics,2,1100,1804.05
+ORD0093,2025-08-25,C052,Lakshmi Iyer,Pune,Mixer Grinder,Appliances,1,1700,2599.0
+ORD0101,2025-08-25,C070,Varun Iyer,Pune,Office Chair,Home & Office,3,2600,3799.05
+ORD0101,2025-08-25,C070,Varun Iyer,Pune,Pen Pack,Stationery,1,55,109.0
+ORD0026,2025-08-28,C041,Varun Rao,Hyderabad,Headphones,Electronics,1,1100,1993.95
+ORD0122,2025-09-06,C025,Reyansh Choudhary,Kolkata,Coffee Maker,Appliances,2,1900,3043.95
+ORD0122,2025-09-06,C025,Reyansh Choudhary,Kolkata,Headphones,Electronics,1,1100,1899.0
+ORD0161,2025-09-06,C034,Ishaan Bhat,Mumbai,Air Fryer,Appliances,1,2800,4198.95
+ORD0185,2025-09-07,C012,Anjali Shetty,Bengaluru,Air Fryer,Appliances,2,2800,3999.0
+ORD0185,2025-09-07,C012,Anjali Shetty,Bengaluru,Desk Lamp,Home & Office,2,420,799.0
+ORD0195,2025-09-12,C007,Rahul Menon,Kolkata,Office Chair,Home & Office,1,2600,3999.0
+ORD0195,2025-09-12,C007,Rahul Menon,Kolkata,USB-C Hub,Electronics,2,850,1424.05
+ORD0150,2025-09-16,C019,Kabir Mehta,Kolkata,Desk Lamp,Home & Office,1,420,799.0
+ORD0150,2025-09-16,C019,Kabir Mehta,Kolkata,Keyboard,Electronics,1,650,1199.0
+ORD0158,2025-09-18,C029,Pooja Patel,Mumbai,Coffee Maker,Appliances,3,1900,2899.0
+ORD0017,2025-09-24,C054,Arjun Menon,Pune,USB-C Hub,Electronics,2,850,1573.95
+ORD0017,2025-09-24,C054,Arjun Menon,Pune,Wireless Mouse,Electronics,2,260,474.05
+ORD0075,2025-09-29,C013,Manish Choudhary,Ahmedabad,Office Chair,Home & Office,2,2600,3999.0
+ORD0139,2025-10-02,C028,Suresh Verma,Ahmedabad,Notebook Set,Stationery,3,90,170.05
+ORD0130,2025-10-04,C002,Neha Pillai,Hyderabad,USB-C Hub,Electronics,1,850,1499.0
+ORD0175,2025-10-09,C048,Naveen Mehta,Ahmedabad,Desk Lamp,Home & Office,1,420,799.0
+ORD0175,2025-10-09,C048,Naveen Mehta,Ahmedabad,Pen Pack,Stationery,1,55,114.45
+ORD0191,2025-10-12,C075,Aadhya Naidu,Chennai,Desk Lamp,Home & Office,1,420,838.95
+ORD0191,2025-10-12,C075,Aadhya Naidu,Chennai,USB-C Hub,Electronics,2,850,1499.0
+ORD0191,2025-10-12,C075,Aadhya Naidu,Chennai,Webcam,Electronics,2,900,1599.0
+ORD0143,2025-10-13,C013,Manish Choudhary,Ahmedabad,Headphones,Electronics,2,1100,1899.0
+ORD0143,2025-10-13,C013,Manish Choudhary,Ahmedabad,Notebook Set,Stationery,3,90,179.0
+ORD0143,2025-10-13,C013,Manish Choudhary,Ahmedabad,Wireless Mouse,Electronics,1,260,474.05
+ORD0118,2025-10-19,C021,Harish Bhat,Delhi,Water Bottle,Accessories,2,180,349.0
+ORD0118,2025-10-19,C021,Harish Bhat,Delhi,Wireless Mouse,Electronics,3,260,499.0
+ORD0045,2025-10-20,C070,Varun Iyer,Pune,Desk Lamp,Home & Office,2,420,759.05
+ORD0045,2025-10-20,C070,Varun Iyer,Pune,Pen Pack,Stationery,1,55,109.0
+ORD0076,2025-10-20,C066,Priya Patel,Hyderabad,Wireless Mouse,Electronics,2,260,523.95
+ORD0055,2025-10-25,C048,Naveen Mehta,Ahmedabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0055,2025-10-25,C048,Naveen Mehta,Ahmedabad,Water Bottle,Accessories,1,180,349.0
+ORD0209,2025-10-25,C073,Manish Mishra,Delhi,Air Fryer,Appliances,1,2800,3799.05
+ORD0209,2025-10-25,C073,Manish Mishra,Delhi,Keyboard,Electronics,1,650,1139.05
+ORD0209,2025-10-25,C073,Manish Mishra,Delhi,Pen Pack,Stationery,2,55,109.0
+ORD0136,2025-10-29,C001,Vikram Choudhary,Mumbai,Water Bottle,Accessories,1,180,331.55
+ORD0040,2025-11-03,C061,Saanvi Choudhary,Ahmedabad,Headphones,Electronics,3,1100,1899.0
+ORD0040,2025-11-03,C061,Saanvi Choudhary,Ahmedabad,Keyboard,Electronics,1,650,1199.0
+ORD0040,2025-11-03,C061,Saanvi Choudhary,Ahmedabad,Water Bottle,Accessories,1,180,366.45
+ORD0005,2025-11-05,C006,Divya Choudhary,Bengaluru,Coffee Maker,Appliances,1,1900,2899.0
+ORD0005,2025-11-05,C006,Divya Choudhary,Bengaluru,Wireless Mouse,Electronics,1,260,474.05
+ORD0069,2025-11-10,C037,Vivaan Naidu,Hyderabad,Backpack,Accessories,1,700,1363.95
+ORD0069,2025-11-10,C037,Vivaan Naidu,Hyderabad,Keyboard,Electronics,2,650,1199.0
+ORD0095,2025-11-10,C079,Sanjay Pillai,Hyderabad,Air Fryer,Appliances,1,2800,3999.0
+ORD0095,2025-11-10,C079,Sanjay Pillai,Hyderabad,Desk Lamp,Home & Office,1,420,838.95
+ORD0095,2025-11-10,C079,Sanjay Pillai,Hyderabad,Office Chair,Home & Office,1,2600,3999.0
+ORD0084,2025-11-12,C060,Sanjay Shetty,Delhi,Pen Pack,Stationery,2,55,109.0
+ORD0084,2025-11-12,C060,Sanjay Shetty,Delhi,Webcam,Electronics,2,900,1678.95
+ORD0162,2025-11-12,C069,Amit Sharma,Chennai,Coffee Maker,Appliances,1,1900,2754.05
+ORD0162,2025-11-12,C069,Amit Sharma,Chennai,Headphones,Electronics,1,1100,1899.0
+ORD0162,2025-11-12,C069,Amit Sharma,Chennai,Notebook Set,Stationery,1,90,179.0
+ORD0103,2025-11-13,C044,Sanjay Verma,Bengaluru,Pen Pack,Stationery,2,55,109.0
+ORD0094,2025-11-17,C014,Rohan Kulkarni,Kolkata,Air Fryer,Appliances,2,2800,3999.0
+ORD0180,2025-11-22,C030,Ishaan Mehta,Ahmedabad,Keyboard,Electronics,1,650,1139.05
+ORD0049,2025-11-26,C052,Lakshmi Iyer,Pune,Desk Lamp,Home & Office,2,420,799.0
+ORD0049,2025-11-26,C052,Lakshmi Iyer,Pune,Office Chair,Home & Office,1,2600,3999.0
+ORD0163,2025-11-26,C054,Arjun Menon,Pune,Air Fryer,Appliances,2,2800,4198.95
+ORD0153,2025-12-01,C032,Madhavi Joshi,Hyderabad,Lunch Bag,Accessories,1,220,429.0
+ORD0153,2025-12-01,C032,Madhavi Joshi,Hyderabad,Pen Pack,Stationery,2,55,109.0
+ORD0153,2025-12-01,C032,Madhavi Joshi,Hyderabad,Wireless Mouse,Electronics,3,260,499.0
+ORD0208,2025-12-12,C023,Anjali Verma,Chennai,Backpack,Accessories,2,700,1234.05
+ORD0208,2025-12-12,C023,Anjali Verma,Chennai,Coffee Maker,Appliances,1,1900,2899.0
+ORD0079,2025-12-14,C035,Kavya Desai,Hyderabad,USB-C Hub,Electronics,1,850,1499.0
+ORD0234,2025-12-14,C058,Manish Bose,Delhi,Lunch Bag,Accessories,1,220,429.0
+ORD0234,2025-12-14,C058,Manish Bose,Delhi,Pen Pack,Stationery,1,55,109.0
+ORD0004,2025-12-16,C066,Priya Patel,Hyderabad,Notebook Set,Stationery,1,90,187.95
+ORD0113,2025-12-17,C032,Madhavi Joshi,Hyderabad,Lunch Bag,Accessories,3,220,407.55
+ORD0113,2025-12-17,C032,Madhavi Joshi,Hyderabad,Mixer Grinder,Appliances,1,1700,2469.05
+ORD0018,2025-12-22,C040,Saanvi Bhat,Mumbai,Water Bottle,Accessories,1,180,331.55
+ORD0111,2025-12-26,C064,Arjun Das,Chennai,Keyboard,Electronics,1,650,1258.95
+ORD0111,2025-12-26,C064,Arjun Das,Chennai,Water Bottle,Accessories,1,180,366.45
+ORD0111,2025-12-26,C064,Arjun Das,Chennai,Wireless Mouse,Electronics,1,260,499.0
+ORD0232,2025-12-29,C003,Shreya Chakraborty,Kolkata,Lunch Bag,Accessories,2,220,450.45
+ORD0029,2026-01-04,C008,Aarav Desai,Delhi,Office Chair,Home & Office,1,2600,3799.05
+ORD0182,2026-01-07,C015,Harish Patel,Bengaluru,Air Fryer,Appliances,3,2800,3999.0
+ORD0182,2026-01-07,C015,Harish Patel,Bengaluru,Wireless Mouse,Electronics,1,260,499.0
+ORD0117,2026-01-09,C017,Anjali Nair,Hyderabad,Coffee Maker,Appliances,3,1900,3043.95
+ORD0117,2026-01-09,C017,Anjali Nair,Hyderabad,Pen Pack,Stationery,2,55,109.0
+ORD0226,2026-01-09,C059,Kabir Desai,Hyderabad,Keyboard,Electronics,1,650,1258.95
+ORD0140,2026-01-18,C064,Arjun Das,Chennai,USB-C Hub,Electronics,1,850,1499.0
+ORD0115,2026-01-25,C001,Vikram Choudhary,Mumbai,Webcam,Electronics,1,900,1599.0
+ORD0154,2026-01-29,C023,Anjali Verma,Chennai,Water Bottle,Accessories,2,180,349.0
+ORD0215,2026-01-31,C041,Varun Rao,Hyderabad,Backpack,Accessories,1,700,1299.0
+ORD0100,2026-02-02,C012,Anjali Shetty,Bengaluru,Headphones,Electronics,1,1100,1804.05
+ORD0100,2026-02-02,C012,Anjali Shetty,Bengaluru,Keyboard,Electronics,2,650,1199.0
+ORD0202,2026-02-08,C044,Sanjay Verma,Bengaluru,Backpack,Accessories,3,700,1299.0
+ORD0202,2026-02-08,C044,Sanjay Verma,Bengaluru,Mixer Grinder,Appliances,1,1700,2599.0
+ORD0202,2026-02-08,C044,Sanjay Verma,Bengaluru,Wireless Mouse,Electronics,1,260,499.0
+ORD0147,2026-02-13,C077,Diya Patel,Hyderabad,Air Fryer,Appliances,2,2800,3999.0
+ORD0147,2026-02-13,C077,Diya Patel,Hyderabad,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0014,2026-02-14,C015,Harish Patel,Bengaluru,Headphones,Electronics,3,1100,1804.05
+ORD0183,2026-02-15,C057,Priya Das,Delhi,Desk Lamp,Home & Office,2,420,799.0
+ORD0141,2026-02-17,C042,Kabir Naidu,Pune,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0126,2026-02-19,C025,Reyansh Choudhary,Kolkata,Water Bottle,Accessories,1,180,366.45
+ORD0034,2026-02-21,C046,Sanjay Kapoor,Hyderabad,Mixer Grinder,Appliances,3,1700,2469.05
+ORD0034,2026-02-21,C046,Sanjay Kapoor,Hyderabad,Webcam,Electronics,1,900,1678.95
+ORD0034,2026-02-21,C046,Sanjay Kapoor,Hyderabad,Wireless Mouse,Electronics,3,260,499.0
+ORD0155,2026-02-27,C004,Ishaan Desai,Bengaluru,Air Fryer,Appliances,1,2800,3999.0
+ORD0155,2026-02-27,C004,Ishaan Desai,Bengaluru,Headphones,Electronics,2,1100,1804.05
+ORD0155,2026-02-27,C004,Ishaan Desai,Bengaluru,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0062,2026-03-02,C059,Kabir Desai,Hyderabad,Keyboard,Electronics,1,650,1139.05
+ORD0033,2026-03-07,C003,Shreya Chakraborty,Kolkata,Pen Pack,Stationery,1,55,109.0
+ORD0229,2026-03-10,C046,Sanjay Kapoor,Hyderabad,Office Chair,Home & Office,1,2600,3799.05
+ORD0116,2026-03-18,C063,Aadhya Nair,Kolkata,Webcam,Electronics,1,900,1519.05
+ORD0052,2026-03-19,C012,Anjali Shetty,Bengaluru,Notebook Set,Stationery,1,90,179.0
+ORD0181,2026-03-20,C042,Kabir Naidu,Pune,Air Fryer,Appliances,3,2800,3999.0
+ORD0043,2026-03-21,C049,Diya Iyer,Hyderabad,Office Chair,Home & Office,1,2600,3799.05
+ORD0160,2026-03-25,C032,Madhavi Joshi,Hyderabad,Office Chair,Home & Office,1,2600,3799.05
+ORD0160,2026-03-25,C032,Madhavi Joshi,Hyderabad,Water Bottle,Accessories,1,180,349.0
+ORD0096,2026-03-28,C026,Aarav Das,Mumbai,Coffee Maker,Appliances,1,1900,2899.0
+ORD0096,2026-03-28,C026,Aarav Das,Mumbai,Wireless Mouse,Electronics,3,260,499.0
+ORD0098,2026-03-30,C007,Rahul Menon,Kolkata,Mixer Grinder,Appliances,1,1700,2728.95
+ORD0112,2026-04-06,C028,Suresh Verma,Ahmedabad,Air Fryer,Appliances,2,2800,3999.0
+ORD0112,2026-04-06,C028,Suresh Verma,Ahmedabad,Notebook Set,Stationery,3,90,187.95
+ORD0067,2026-04-07,C019,Kabir Mehta,Kolkata,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0184,2026-04-07,C007,Rahul Menon,Kolkata,Mixer Grinder,Appliances,3,1700,2599.0
+ORD0184,2026-04-07,C007,Rahul Menon,Kolkata,Water Bottle,Accessories,1,180,366.45
+ORD0131,2026-04-10,C049,Diya Iyer,Hyderabad,Notebook Set,Stationery,2,90,187.95
+ORD0131,2026-04-10,C049,Diya Iyer,Hyderabad,Pen Pack,Stationery,1,55,114.45
+ORD0009,2026-04-12,C037,Vivaan Naidu,Hyderabad,Pen Pack,Stationery,2,55,114.45
+ORD0081,2026-04-12,C057,Priya Das,Delhi,Air Fryer,Appliances,1,2800,4198.95
+ORD0081,2026-04-12,C057,Priya Das,Delhi,Coffee Maker,Appliances,2,1900,2899.0
+ORD0220,2026-04-13,C018,Rahul Mishra,Kolkata,Lunch Bag,Accessories,1,220,407.55
+ORD0152,2026-04-16,C042,Kabir Naidu,Pune,Coffee Maker,Appliances,2,1900,2899.0
+ORD0152,2026-04-16,C042,Kabir Naidu,Pune,Pen Pack,Stationery,1,55,103.55
+ORD0221,2026-04-17,C005,Aarav Menon,Pune,Mixer Grinder,Appliances,1,1700,2599.0
+ORD0221,2026-04-17,C005,Aarav Menon,Pune,Notebook Set,Stationery,2,90,170.05
+ORD0151,2026-04-20,C076,Madhavi Patel,Delhi,Headphones,Electronics,2,1100,1899.0
+ORD0151,2026-04-20,C076,Madhavi Patel,Delhi,Pen Pack,Stationery,3,55,103.55
+ORD0156,2026-04-21,C017,Anjali Nair,Hyderabad,Notebook Set,Stationery,1,90,170.05
+ORD0007,2026-04-29,C060,Sanjay Shetty,Delhi,Wireless Mouse,Electronics,1,260,499.0
+ORD0011,2026-04-29,C043,Aditya Patel,Mumbai,Headphones,Electronics,1,1100,1899.0
+ORD0011,2026-04-29,C043,Aditya Patel,Mumbai,Pen Pack,Stationery,1,55,114.45
+ORD0024,2026-04-29,C006,Divya Choudhary,Bengaluru,Coffee Maker,Appliances,3,1900,2899.0
+ORD0024,2026-04-29,C006,Divya Choudhary,Bengaluru,Headphones,Electronics,3,1100,1899.0
+ORD0024,2026-04-29,C006,Divya Choudhary,Bengaluru,Webcam,Electronics,1,900,1599.0
+ORD0071,2026-05-01,C012,Anjali Shetty,Bengaluru,Office Chair,Home & Office,1,2600,3999.0
+ORD0008,2026-05-06,C071,Amit Naidu,Hyderabad,Desk Lamp,Home & Office,3,420,799.0
+ORD0023,2026-05-15,C078,Pooja Joshi,Bengaluru,Coffee Maker,Appliances,1,1900,2899.0
+ORD0023,2026-05-15,C078,Pooja Joshi,Bengaluru,Pen Pack,Stationery,2,55,109.0
+ORD0012,2026-05-17,C044,Sanjay Verma,Bengaluru,USB-C Hub,Electronics,1,850,1499.0
+ORD0124,2026-05-17,C071,Amit Naidu,Hyderabad,Pen Pack,Stationery,1,55,114.45
+ORD0134,2026-05-17,C079,Sanjay Pillai,Hyderabad,Backpack,Accessories,2,700,1299.0
+ORD0134,2026-05-17,C079,Sanjay Pillai,Hyderabad,Keyboard,Electronics,2,650,1258.95
+ORD0134,2026-05-17,C079,Sanjay Pillai,Hyderabad,Office Chair,Home & Office,3,2600,3799.05
+ORD0128,2026-05-24,C006,Divya Choudhary,Bengaluru,Water Bottle,Accessories,1,180,349.0
+ORD0137,2026-05-25,C056,Karthik Gupta,Hyderabad,Headphones,Electronics,1,1100,1804.05
+ORD0137,2026-05-25,C056,Karthik Gupta,Hyderabad,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0227,2026-05-31,C026,Aarav Das,Mumbai,Mixer Grinder,Appliances,1,1700,2599.0
+ORD0135,2026-06-05,C051,Divya Naidu,Ahmedabad,Coffee Maker,Appliances,2,1900,2899.0
+ORD0135,2026-06-05,C051,Divya Naidu,Ahmedabad,Keyboard,Electronics,1,650,1199.0
+ORD0145,2026-06-10,C005,Aarav Menon,Pune,Air Fryer,Appliances,1,2800,4198.95
+ORD0145,2026-06-10,C005,Aarav Menon,Pune,Headphones,Electronics,1,1100,1804.05
+ORD0145,2026-06-10,C005,Aarav Menon,Pune,Pen Pack,Stationery,1,55,114.45
+ORD0064,2026-06-16,C057,Priya Das,Delhi,Lunch Bag,Accessories,3,220,407.55
+ORD0064,2026-06-16,C057,Priya Das,Delhi,Pen Pack,Stationery,1,55,103.55
+ORD0064,2026-06-16,C057,Priya Das,Delhi,Wireless Mouse,Electronics,2,260,499.0
+ORD0148,2026-06-16,C042,Kabir Naidu,Pune,Keyboard,Electronics,3,650,1258.95
+ORD0148,2026-06-16,C042,Kabir Naidu,Pune,Pen Pack,Stationery,3,55,103.55
+ORD0020,2026-06-19,C014,Rohan Kulkarni,Kolkata,Desk Lamp,Home & Office,1,420,799.0
+ORD0020,2026-06-19,C014,Rohan Kulkarni,Kolkata,Keyboard,Electronics,1,650,1139.05
+ORD0002,2026-06-29,C004,Ishaan Desai,Bengaluru,Headphones,Electronics,2,1100,1899.0
+ORD0198,2026-07-01,C075,Aadhya Naidu,Chennai,Headphones,Electronics,1,1100,1804.05
+ORD0199,2026-07-01,C075,Aadhya Naidu,Chennai,Backpack,Accessories,1,700,1363.95
+ORD0199,2026-07-01,C075,Aadhya Naidu,Chennai,Keyboard,Electronics,1,650,1199.0
+ORD0001,2026-07-09,C022,Kabir Nair,Pune,Air Fryer,Appliances,2,2800,3999.0
+ORD0123,2026-07-15,C037,Vivaan Naidu,Hyderabad,Backpack,Accessories,2,700,1234.05
+ORD0123,2026-07-15,C037,Vivaan Naidu,Hyderabad,Pen Pack,Stationery,1,55,109.0
+ORD0123,2026-07-15,C037,Vivaan Naidu,Hyderabad,Water Bottle,Accessories,3,180,349.0
+ORD0121,2026-07-17,C032,Madhavi Joshi,Hyderabad,Desk Lamp,Home & Office,1,420,799.0
+ORD0121,2026-07-17,C032,Madhavi Joshi,Hyderabad,Mixer Grinder,Appliances,1,1700,2469.05
+ORD0168,2026-07-17,C073,Manish Mishra,Delhi,Coffee Maker,Appliances,1,1900,2899.0
+ORD0168,2026-07-17,C073,Manish Mishra,Delhi,USB-C Hub,Electronics,1,850,1499.0
+ORD0168,2026-07-17,C073,Manish Mishra,Delhi,Webcam,Electronics,1,900,1678.95
+ORD0010,2026-07-19,C019,Kabir Mehta,Kolkata,Wireless Mouse,Electronics,1,260,499.0
+ORD0037,2026-07-24,C040,Saanvi Bhat,Mumbai,Mixer Grinder,Appliances,1,1700,2469.05
+ORD0037,2026-07-24,C040,Saanvi Bhat,Mumbai,Notebook Set,Stationery,1,90,179.0
+ORD0086,2026-07-25,C066,Priya Patel,Hyderabad,Headphones,Electronics,2,1100,1899.0
+ORD0086,2026-07-25,C066,Priya Patel,Hyderabad,Webcam,Electronics,1,900,1599.0
+ORD0086,2026-07-25,C066,Priya Patel,Hyderabad,Wireless Mouse,Electronics,2,260,523.95
+ORD0087,2026-07-26,C078,Pooja Joshi,Bengaluru,Headphones,Electronics,1,1100,1899.0
+ORD0218,2026-07-29,C058,Manish Bose,Delhi,Headphones,Electronics,2,1100,1899.0
+ORD0035,2026-08-01,C038,Priya Menon,Delhi,Coffee Maker,Appliances,2,1900,3043.95
+ORD0176,2026-08-04,C032,Madhavi Joshi,Hyderabad,USB-C Hub,Electronics,1,850,1499.0
+ORD0172,2026-08-09,C012,Anjali Shetty,Bengaluru,Pen Pack,Stationery,1,55,109.0
+ORD0233,2026-08-10,C013,Manish Choudhary,Ahmedabad,Notebook Set,Stationery,2,90,179.0
+ORD0060,2026-08-11,C070,Varun Iyer,Pune,Air Fryer,Appliances,3,2800,3799.05
+ORD0060,2026-08-11,C070,Varun Iyer,Pune,Desk Lamp,Home & Office,1,420,838.95
+ORD0060,2026-08-11,C070,Varun Iyer,Pune,Webcam,Electronics,1,900,1599.0
+ORD0028,2026-08-17,C010,Anjali Bose,Chennai,Wireless Mouse,Electronics,1,260,523.95
+ORD0132,2026-08-19,C073,Manish Mishra,Delhi,Office Chair,Home & Office,1,2600,3999.0
+ORD0132,2026-08-19,C073,Manish Mishra,Delhi,Pen Pack,Stationery,1,55,109.0
+ORD0044,2026-08-21,C015,Harish Patel,Bengaluru,Desk Lamp,Home & Office,2,420,799.0
+ORD0044,2026-08-21,C015,Harish Patel,Bengaluru,Notebook Set,Stationery,2,90,179.0
+ORD0044,2026-08-21,C015,Harish Patel,Bengaluru,Pen Pack,Stationery,1,55,109.0
+ORD0114,2026-08-23,C051,Divya Naidu,Ahmedabad,Coffee Maker,Appliances,1,1900,3043.95
+ORD0114,2026-08-23,C051,Divya Naidu,Ahmedabad,Headphones,Electronics,1,1100,1899.0
+ORD0164,2026-08-25,C011,Aarav Chakraborty,Kolkata,Air Fryer,Appliances,2,2800,3999.0
+ORD0164,2026-08-25,C011,Aarav Chakraborty,Kolkata,Water Bottle,Accessories,1,180,349.0
+ORD0238,2026-08-25,C053,Arjun Choudhary,Chennai,Mixer Grinder,Appliances,2,1700,2469.05
+ORD0088,2026-08-30,C077,Diya Patel,Hyderabad,Pen Pack,Stationery,1,55,109.0
+ORD0187,2026-08-31,C001,Vikram Choudhary,Mumbai,Desk Lamp,Home & Office,1,420,799.0
+ORD0051,2026-09-01,C041,Varun Rao,Hyderabad,Headphones,Electronics,2,1100,1993.95
+ORD0157,2026-09-01,C014,Rohan Kulkarni,Kolkata,Backpack,Accessories,3,700,1234.05
+ORD0219,2026-09-09,C053,Arjun Choudhary,Chennai,Air Fryer,Appliances,3,2800,3999.0
+ORD0092,2026-09-14,C078,Pooja Joshi,Bengaluru,Desk Lamp,Home & Office,1,420,799.0
+ORD0092,2026-09-14,C078,Pooja Joshi,Bengaluru,Webcam,Electronics,1,900,1599.0
+ORD0092,2026-09-14,C078,Pooja Joshi,Bengaluru,Wireless Mouse,Electronics,2,260,499.0
+ORD0090,2026-09-16,C024,Lakshmi Choudhary,Delhi,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0165,2026-09-18,C010,Anjali Bose,Chennai,Notebook Set,Stationery,1,90,170.05
+ORD0021,2026-09-21,C058,Manish Bose,Delhi,Coffee Maker,Appliances,3,1900,2899.0
+ORD0021,2026-09-21,C058,Manish Bose,Delhi,Webcam,Electronics,1,900,1599.0
+ORD0166,2026-09-21,C061,Saanvi Choudhary,Ahmedabad,Webcam,Electronics,1,900,1599.0
+ORD0211,2026-09-25,C048,Naveen Mehta,Ahmedabad,Coffee Maker,Appliances,1,1900,3043.95
+ORD0235,2026-09-25,C065,Kabir Patel,Bengaluru,Notebook Set,Stationery,2,90,179.0
+ORD0042,2026-09-26,C058,Manish Bose,Delhi,USB-C Hub,Electronics,2,850,1424.05
+ORD0102,2026-09-27,C041,Varun Rao,Hyderabad,Desk Lamp,Home & Office,2,420,799.0
+ORD0102,2026-09-27,C041,Varun Rao,Hyderabad,USB-C Hub,Electronics,3,850,1499.0
+ORD0210,2026-09-28,C026,Aarav Das,Mumbai,Lunch Bag,Accessories,1,220,450.45
+ORD0210,2026-09-28,C026,Aarav Das,Mumbai,USB-C Hub,Electronics,1,850,1499.0
+ORD0105,2026-09-29,C022,Kabir Nair,Pune,Mixer Grinder,Appliances,1,1700,2599.0
+ORD0061,2026-10-03,C062,Amit Das,Delhi,Desk Lamp,Home & Office,2,420,799.0
+ORD0170,2026-10-03,C067,Suresh Iyer,Bengaluru,Air Fryer,Appliances,1,2800,3799.05
+ORD0170,2026-10-03,C067,Suresh Iyer,Bengaluru,Headphones,Electronics,2,1100,1899.0
+ORD0171,2026-10-03,C039,Saanvi Verma,Ahmedabad,Coffee Maker,Appliances,1,1900,3043.95
+ORD0171,2026-10-03,C039,Saanvi Verma,Ahmedabad,Office Chair,Home & Office,1,2600,3999.0
+ORD0207,2026-10-06,C011,Aarav Chakraborty,Kolkata,Mixer Grinder,Appliances,2,1700,2469.05
+ORD0186,2026-10-12,C055,Deepak Naidu,Ahmedabad,Wireless Mouse,Electronics,2,260,499.0
+ORD0223,2026-10-16,C079,Sanjay Pillai,Hyderabad,Notebook Set,Stationery,1,90,179.0
+ORD0223,2026-10-16,C079,Sanjay Pillai,Hyderabad,Water Bottle,Accessories,2,180,349.0
+ORD0230,2026-10-19,C065,Kabir Patel,Bengaluru,Air Fryer,Appliances,1,2800,3999.0
+ORD0230,2026-10-19,C065,Kabir Patel,Bengaluru,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0192,2026-10-29,C061,Saanvi Choudhary,Ahmedabad,Air Fryer,Appliances,3,2800,3799.05
+ORD0192,2026-10-29,C061,Saanvi Choudhary,Ahmedabad,Mixer Grinder,Appliances,2,1700,2599.0
+ORD0077,2026-10-31,C064,Arjun Das,Chennai,Keyboard,Electronics,1,650,1199.0
+ORD0077,2026-10-31,C064,Arjun Das,Chennai,Notebook Set,Stationery,3,90,187.95
